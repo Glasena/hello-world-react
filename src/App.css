@@ -13,6 +13,10 @@
   }
 }
 
+h3 {
+  color: rgb(163, 29, 29);
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
